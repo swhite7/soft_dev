@@ -1,0 +1,3 @@
+Starting health,30,
+Hand size,5,
+Cards available to buy, 5
